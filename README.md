@@ -1,2 +1,3 @@
 # pixsum
-Summing pixels lol
+
+A programming task: sum pixels.
